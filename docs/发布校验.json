@@ -1,0 +1,38 @@
+{
+  "仓库": "https://github.com/Megumin1024/cold-steel-16x10-turbo",
+  "发布": "https://github.com/Megumin1024/cold-steel-16x10-turbo/releases/tag/v1.0.0",
+  "草稿": false,
+  "提交": "b3d7c5d415489e47734537859affb2b9326357bc",
+  "服务端附件校验": "通过",
+  "附件": {
+    "ColdSteel-16x10-Turbo-v1.0.0-Windows-x64.zip": {
+      "size": 13512616,
+      "sha256": "4ae090747b482c709ee348095a357c7608466eb0982ff819b56f05f8234c3a79"
+    },
+    "ColdSteel-16x10-Turbo-v1.0.0.exe": {
+      "size": 13770455,
+      "sha256": "e20dd0260af2c373612c59119121718d54efb795c823943c56861fa8b82d322a"
+    },
+    "SHA256SUMS.txt": {
+      "size": 212,
+      "sha256": "de1d17c7168ddf20d2c0a9f56070a3915c8394c924e4369f981ad257cf7a05b0"
+    }
+  },
+  "匿名下载校验": {
+    "ColdSteel-16x10-Turbo-v1.0.0-Windows-x64.zip": {
+      "HTTP": 200,
+      "size": 13512616,
+      "sha256": "4ae090747b482c709ee348095a357c7608466eb0982ff819b56f05f8234c3a79"
+    },
+    "ColdSteel-16x10-Turbo-v1.0.0.exe": {
+      "HTTP": 200,
+      "size": 13770455,
+      "sha256": "e20dd0260af2c373612c59119121718d54efb795c823943c56861fa8b82d322a"
+    },
+    "SHA256SUMS.txt": {
+      "HTTP": 200,
+      "size": 212,
+      "sha256": "de1d17c7168ddf20d2c0a9f56070a3915c8394c924e4369f981ad257cf7a05b0"
+    }
+  }
+}
