@@ -1,0 +1,6 @@
+LIBRARY turbo_toggle
+EXPORTS
+    AtmtModInit
+    AtmtModShutdown
+    AtmtModDescription
+

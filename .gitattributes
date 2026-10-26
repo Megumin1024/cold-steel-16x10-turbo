@@ -1,0 +1,4 @@
+payload/** -text
+licenses/** -text
+src/turbo/** -text
+*.ps1 text eol=crlf

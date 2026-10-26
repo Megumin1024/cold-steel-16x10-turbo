@@ -1,0 +1,14 @@
+build/
+dist/
+__pycache__/
+*.pyc
+*.obj
+*.exp
+*.lib
+*.map
+*.log
+*.install.json
+*-backups/
+/self-test.json
+/exe-self-test.json
+/real-file-check.json
